@@ -1,0 +1,9 @@
+body {
+    background: #2bb1a1;
+    text-align: center;
+    padding: 0 300px 300px 300px;
+}
+
+a:active {
+    color:aqua; 
+}

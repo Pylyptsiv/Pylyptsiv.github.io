@@ -1,0 +1,19 @@
+body {
+    background: rgba(130, 120, 110, 0.9); 
+    padding: 0 300px 300px 300px;
+    text-align: center;
+}
+
+
+
+.img2 {
+    height: 50;
+}
+
+.pult {
+    
+}
+
+a:active {
+    color: aqua;
+}

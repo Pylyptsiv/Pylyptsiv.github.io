@@ -1,0 +1,114 @@
+body{
+    background-color: blue;
+    padding: 0 300px 0px 300px;
+}
+#logo{
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+    font-family: Comic Sans MS;
+    margin-bottom: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 0 0 10px 10px;
+    padding: 20px;
+        
+}
+
+h1, h2, h3, height: 4px;{
+    border-bottom: 2px solid red;
+}
+p { 
+    text-indent: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Kurale;
+}   
+.a323{
+    color: white;
+    font-family: Kurale;
+    border-bottom: 2px solid red;
+}
+
+.a323:first-letter{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.text1 {    
+    line-height: 1; 
+    text-indent: 20px;
+    font-family: Kurale;
+}   
+
+.text2 {        
+    text-indent: 20px;
+    font-family: Kurale;
+    
+}   
+
+.text3 {        
+    text-indent: 20px;
+    font-family: Kurale;
+}   
+    
+.numberovka1 {      
+    font-family: Kurale;
+    color: wheat; 
+    text-align: left;
+    
+}   
+    
+.numberovka2 {  
+    list-style-type: square;    
+    color: wheat;
+    font-family: Kurale; 
+    text-align: left;
+    
+}   
+    
+.climat {  
+    color: wheat; 
+    font-family: Kurale; 
+    text-indent: 20px;
+}   
+
+.podgotovka {   
+    
+}
+
+.timer {    
+    font-family: Kurale;
+    
+}
+
+.gf {
+    font-family: Kurale;
+    color: wheat;
+}
+
+a:active {
+    color: wheat;
+    
+}
+
+p:first-letter {
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+    
+    
+}
+
+#note{
+    margin-top: 22px;
+    margin-bottom: 30px;
+    padding: 18px;
+    background: #ffffff;
+    border: 2px solid #000000;
+    color: #000000;
+    font-style: italic;
+    font-family: Arial;
+    border-bottom: 2px solid #000;
+}
